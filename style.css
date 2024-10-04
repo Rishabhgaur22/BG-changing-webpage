@@ -1,0 +1,24 @@
+.header{
+    display: flex;
+    justify-content: center;
+    background-color : #ffffff;
+    border-radius : 20px;
+    height : 70px;
+}
+.colors{
+    margin-top: 10px;
+    margin-right : 5px;
+    border : none;
+    border-radius : 5px;
+    height: 50px;
+    width : 50px;
+    cursor : pointer;
+}
+#inputbox{
+    margin-left: 50px;
+    margin-top : 15px;
+    height : 40px;
+    background-color: #ffffff;
+    border : none;
+
+}
